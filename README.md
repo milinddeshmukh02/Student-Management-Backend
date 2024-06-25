@@ -1,1 +1,0 @@
-# Student management backend project#
